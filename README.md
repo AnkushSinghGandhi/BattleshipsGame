@@ -1,3 +1,5 @@
+0) first you have to install pygame with command "pip install pygame"
+
 1) if you encounter an blue destroy ship your score is increased by 1 points 
 
 2) if you encounter an red destroy ship your score is increased by 50 points and your battle ship is upgraded to golden battle ship 
