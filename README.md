@@ -1,3 +1,5 @@
+## Batleship Game
+
 0) first you have to install pygame with command "pip install pygame"
 
 1) if you encounter an blue destroy ship your score is increased by 1 points 
